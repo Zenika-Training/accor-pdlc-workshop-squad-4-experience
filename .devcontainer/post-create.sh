@@ -2,7 +2,7 @@
 # Prépare le Codespace d'une squad : outils, Context Nexus cloné à côté, contexte assemblé.
 set -euo pipefail
 
-NEXUS_URL="https://github.com/zenika-dev/ai4d-hackathon-context-nexus.git"
+NEXUS_URL="https://github.com/Zenika-Training/accor-pdlc-workshop-context-nexus.git"
 SQUADS="squad-1-offre squad-2-prix squad-3-paiement squad-4-experience"
 STARTER_DIR="$(pwd)"
 NEXUS_DIR="$(dirname "$STARTER_DIR")/context-nexus"

@@ -12,7 +12,7 @@
     "codespaces": {
       // Permet de publier dans le Context Nexus depuis le Codespace (droits d'écriture requis sur le dépôt).
       "repositories": {
-        "zenika-dev/ai4d-hackathon-context-nexus": { "permissions": { "contents": "write" } }
+        "Zenika-Training/accor-pdlc-workshop-context-nexus": { "permissions": { "contents": "write" } }
       },
       "openFiles": [ "CLAUDE.md" ]
     },
